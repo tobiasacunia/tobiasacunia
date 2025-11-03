@@ -2,7 +2,7 @@ Hola mi Nombre es Tobias       <img src="https://github.com/TheDudeThatCode/TheD
 
 <h1>🤵 Sobre mí: </h1>
 <l1>Actualmente trabajo en un Estudio Contable</l1>
-<l1>Actualmente estoy cursando la carrera de Tec en Desarollo de Software</l1>
+<li>Actualmente estoy cursando la carrera de Tec en Desarollo de Software</li>
 
 <h2> Languages </h2>
 <span> 
